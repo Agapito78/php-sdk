@@ -1,0 +1,14 @@
+{
+    "name": "agapito78/php-sdk",
+    "description": "Mercado Livre API Client",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Agapito",
+            "email": "agapito.andre@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
